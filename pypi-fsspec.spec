@@ -4,7 +4,7 @@
 #
 Name     : pypi-fsspec
 Version  : 2021.11.1
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/a5/b1/9c247e65c565e863643763020366b492a6bd4b1fd5854cbc8bdc42bd87ff/fsspec-2021.11.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a5/b1/9c247e65c565e863643763020366b492a6bd4b1fd5854cbc8bdc42bd87ff/fsspec-2021.11.1.tar.gz
 Summary  : File-system specification

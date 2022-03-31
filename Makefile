@@ -1,5 +1,5 @@
 PKG_NAME := pypi-fsspec
-URL = https://files.pythonhosted.org/packages/47/d1/53c0b8e6bd4082a7fdee652b96d30b4c433e277793da6e650eabe73fc2cb/fsspec-2022.2.0.tar.gz
+URL = https://files.pythonhosted.org/packages/69/cb/0802a8e7462554cf3ecf3ebb2582c298ed73572c34969fc94b818e76df78/fsspec-2022.3.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common

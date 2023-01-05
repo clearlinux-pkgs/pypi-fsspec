@@ -4,7 +4,7 @@
 #
 Name     : pypi-fsspec
 Version  : 2022.11.0
-Release  : 37
+Release  : 38
 URL      : https://files.pythonhosted.org/packages/44/7c/fb753d18e2eeb186a47ecd6939326f7633a027fe23a44ee7912978e64819/fsspec-2022.11.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/44/7c/fb753d18e2eeb186a47ecd6939326f7633a027fe23a44ee7912978e64819/fsspec-2022.11.0.tar.gz
 Summary  : File-system specification

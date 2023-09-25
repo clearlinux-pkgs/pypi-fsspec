@@ -4,10 +4,10 @@
 # Using build pattern: pyproject
 #
 Name     : pypi-fsspec
-Version  : 2023.9.1
-Release  : 45
-URL      : https://files.pythonhosted.org/packages/ca/2f/93a4a8eed0234a6b20a32c718ddd0ab712c66b4bda6ce4c3bcd51b279a66/fsspec-2023.9.1.tar.gz
-Source0  : https://files.pythonhosted.org/packages/ca/2f/93a4a8eed0234a6b20a32c718ddd0ab712c66b4bda6ce4c3bcd51b279a66/fsspec-2023.9.1.tar.gz
+Version  : 2023.9.2
+Release  : 46
+URL      : https://files.pythonhosted.org/packages/bd/c1/b9dbe600903f9ac2401e42f38cb376130485a6d0db611f60ab05fa8d21fc/fsspec-2023.9.2.tar.gz
+Source0  : https://files.pythonhosted.org/packages/bd/c1/b9dbe600903f9ac2401e42f38cb376130485a6d0db611f60ab05fa8d21fc/fsspec-2023.9.2.tar.gz
 Summary  : File-system specification
 Group    : Development/Tools
 License  : BSD-3-Clause
@@ -54,10 +54,10 @@ python3 components for the pypi-fsspec package.
 
 
 %prep
-%setup -q -n fsspec-2023.9.1
-cd %{_builddir}/fsspec-2023.9.1
+%setup -q -n fsspec-2023.9.2
+cd %{_builddir}/fsspec-2023.9.2
 pushd ..
-cp -a fsspec-2023.9.1 buildavx2
+cp -a fsspec-2023.9.2 buildavx2
 popd
 
 %build
@@ -65,7 +65,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1695054975
+export SOURCE_DATE_EPOCH=1695653944
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib

@@ -5,7 +5,7 @@
 #
 Name     : pypi-fsspec
 Version  : 2023.9.2
-Release  : 46
+Release  : 47
 URL      : https://files.pythonhosted.org/packages/bd/c1/b9dbe600903f9ac2401e42f38cb376130485a6d0db611f60ab05fa8d21fc/fsspec-2023.9.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/bd/c1/b9dbe600903f9ac2401e42f38cb376130485a6d0db611f60ab05fa8d21fc/fsspec-2023.9.2.tar.gz
 Summary  : File-system specification

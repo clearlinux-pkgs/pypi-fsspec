@@ -7,7 +7,7 @@
 #
 Name     : pypi-fsspec
 Version  : 2023.12.1
-Release  : 50
+Release  : 51
 URL      : https://files.pythonhosted.org/packages/1f/c2/e94323e64149ea127e502d48f00dcf00806182966da88d5c10d9fe572745/fsspec-2023.12.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1f/c2/e94323e64149ea127e502d48f00dcf00806182966da88d5c10d9fe572745/fsspec-2023.12.1.tar.gz
 Summary  : File-system specification
@@ -68,7 +68,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1701898965
+export SOURCE_DATE_EPOCH=1702067782
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib

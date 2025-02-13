@@ -7,7 +7,7 @@
 #
 Name     : pypi-fsspec
 Version  : 2025.2.0
-Release  : 64
+Release  : 65
 URL      : https://files.pythonhosted.org/packages/b5/79/68612ed99700e6413de42895aa725463e821a6b3be75c87fcce1b4af4c70/fsspec-2025.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b5/79/68612ed99700e6413de42895aa725463e821a6b3be75c87fcce1b4af4c70/fsspec-2025.2.0.tar.gz
 Summary  : File-system specification
